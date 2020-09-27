@@ -1,0 +1,15 @@
+{
+    "commands":[
+        {
+            "id":"ak.gfe",
+            "displayName":"generate from excel",
+            "defaultShortcut":"",
+            "program":"py.exe",
+            "startMode":"MultipleSelectionSingleProcessSpaceSeparated",
+            "args":"C:\\Users\\zhangyipeng\\AppData\\Roaming\\Audiokinetic\\Wwise\\Add-ons\\excel_functions\\excel_waapi_TTS_test.py ${id}",
+            "cwd":"",
+            "contextMenu":{},
+            "redirectOutputs":true
+        }       
+    ]
+}

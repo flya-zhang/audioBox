@@ -1,0 +1,22 @@
+{
+    "commands": [
+        {
+            "id": "ak.increase_volume",
+            "displayName": "Increase Volume",
+            "defaultShortcut": "=",
+            "program": "pyw",
+            "startMode": "MultipleSelectionSingleProcessSpaceSeparated",
+            "args": "C:\\Users\\zhangyipeng\\AppData\\Roaming\\Audiokinetic\\Wwise\\Add-ons\\offset_property.py ${id}",
+            "contextMenu": {}
+        }, 
+        {
+            "id": "ak.decrease_volume",
+            "displayName": "Decrease Volume",
+            "defaultShortcut": "-",
+            "program": "pyw",
+            "startMode": "MultipleSelectionSingleProcessSpaceSeparated",
+            "args": "C:\\Users\\zhangyipeng\\AppData\\Roaming\\Audiokinetic\\Wwise\\Add-ons\\offset_property.py ${id} -o \"-1\"",
+            "contextMenu": {}
+        }
+    ]
+}
