@@ -1,0 +1,83 @@
+{
+ "ani": [
+  "a1.ogg",
+  "a2.ogg",
+  "a3.ogg",
+  {
+   "footstep_metal_random": [
+    "footstep_metal_1.wav",
+    "footstep_metal_2.wav",
+    "footstep_metal_3.wav",
+    "footstep_metal_4.wav",
+    "footstep_metal_5.wav",
+    "footstep_metal_6.wav",
+    "footstep_metal_7.wav",
+    "footstep_metal_8.wav"
+   ]
+  },
+  {
+   "footstep_tile_random": [
+    "footstep_tile_1.wav",
+    "footstep_tile_2.wav",
+    "footstep_tile_3.wav",
+    "footstep_tile_4.wav",
+    "footstep_tile_5.wav",
+    "footstep_tile_6.wav",
+    "footstep_tile_7.wav"
+   ]
+  },
+  {
+   "footstep_wood_random": [
+    "footstep_wood_1.wav",
+    "footstep_wood_2.wav",
+    "footstep_wood_3.wav",
+    "footstep_wood_4.wav",
+    "footstep_wood_5.wav",
+    "footstep_wood_6.wav",
+    "footstep_wood_7.wav",
+    "footstep_wood_8.wav"
+   ]
+  }
+ ],
+ "music": [
+  "bgm_Bring The Burn.ogg",
+  "bgm_Dance Game Show Theme.ogg",
+  "bgm_Fizzed-up Theme.ogg"
+ ],
+ "sfx": [
+  "panel_bone_pick_1.wav",
+  "panel_bone_pick_2.wav",
+  "panel_bone_pick_3.wav",
+  "panel_bone_recover.wav",
+  "panel_book_laydown.wav",
+  "panel_book_pick.wav",
+  "panel_cleandust.wav",
+  "panel_fossil.wav",
+  "panel_pray.wav",
+  "panel_sortsampleDrop01_1.wav",
+  "panel_sortsampleDrop01_2.wav",
+  "panel_sortsampleDrop01_3.wav",
+  "panel_sortsamplePickup_1.wav",
+  "panel_sortsamplePickup_2.wav",
+  "panel_sortsamplePickup_3.wav",
+  "panel_sortsamplePickup_4.wav",
+  "panel_sortsamplePickup_5.wav",
+  "panel_spore_fall_1.wav",
+  "panel_spore_fall_2.wav",
+  "panel_spore_fall_3.wav",
+  "panel_treasure_insert.wav",
+  "panel_treasure_pick.wav",
+  "panel_treasure_turn.wav"
+ ],
+ "ui": [
+  "ui_common_close_1.wav",
+  "ui_common_close_2.wav",
+  "ui_common_close_3.wav",
+  "ui_common_open_1.wav",
+  "ui_common_open_2.wav",
+  "ui_common_open_3.wav",
+  "ui_common_tab_1.wav",
+  "ui_common_tab_2.wav",
+  "ui_common_tab_3.wav"
+ ]
+}
